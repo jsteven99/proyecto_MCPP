@@ -44,6 +44,18 @@ Nube con las palabras más frecuentes en los objetivos de los proyectos de inver
 ![media_inver_sector](https://user-images.githubusercontent.com/67245592/203531394-7b318514-8d6c-441d-a6e7-b6c50d43976d.png)
 
 
-![cantidad_sector](https://user-images.githubusercontent.com/67245592/203531739-ff9fd701-8f76-4a14-a14c-36c50b417ef9.png)
+![cantidad_sector](https://user-images.githubusercontent.com/67245592/203534144-389bd3ad-37ee-41a6-8f82-42cc95c2dad9.png)
+
+
+![swarmplot_estado](https://user-images.githubusercontent.com/67245592/203533561-0348e0e4-5105-4a63-9b8c-cc5f595d5013.png)
+
+
+![Barras_prom_cant](https://user-images.githubusercontent.com/67245592/203534270-cede465e-92de-4f7a-886a-676986450c26.png)
+
+
+![proy_terminados](https://user-images.githubusercontent.com/67245592/203534606-4c56a456-1fe3-47c1-b1c5-deb7cb3d3b31.png)
+
+
+![fuentes_finan](https://user-images.githubusercontent.com/67245592/203534878-b97619fb-b343-4ff6-b4da-4be324238bc0.png)
 
 
