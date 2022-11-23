@@ -1,5 +1,4 @@
-# proyecto final MCPP
-## Proyectos de inversión en Cali
+# Proyectos de inversión en Cali
 #### Johan Steven Caicedo Rodríguez
 
 ### Descripción y motivación
