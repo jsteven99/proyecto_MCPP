@@ -32,31 +32,31 @@ Nube con las palabras más frecuentes en los objetivos de los proyectos de inver
 ![inversion_estado](https://user-images.githubusercontent.com/67245592/203528540-3484a38a-bd20-464f-af17-64ec74931bb1.png)
 
 
-![porcentaje_estado](https://user-images.githubusercontent.com/67245592/203529271-6bb7b897-8712-45ae-b54d-5dca88b14eeb.png)
+![porcentaje_estado](https://user-images.githubusercontent.com/67245592/203539563-9515fd78-2865-41a7-b9aa-81670b42378a.png)
 
 
 ![distribucion_sector](https://user-images.githubusercontent.com/67245592/203530497-51c69dda-85b9-4d99-b35e-efe9592b4a27.png)
 
 
-![distribucion_sector2](https://user-images.githubusercontent.com/67245592/203530871-0d975283-1455-4793-8d2c-30d72ca54a7c.png)
+![distribucion_sector2](https://user-images.githubusercontent.com/67245592/203539664-1e9855c8-d8d6-4c07-8113-86797c0e5c2e.png)
 
 
-![media_inver_sector](https://user-images.githubusercontent.com/67245592/203531394-7b318514-8d6c-441d-a6e7-b6c50d43976d.png)
+![media_inver_sector](https://user-images.githubusercontent.com/67245592/203539756-e14d7896-2ceb-4dab-8217-a43cf41bef97.png)
 
 
-![cantidad_sector](https://user-images.githubusercontent.com/67245592/203534144-389bd3ad-37ee-41a6-8f82-42cc95c2dad9.png)
+![cantidad_sector](https://user-images.githubusercontent.com/67245592/203539801-52176f76-447e-4ab6-aae8-4c86201a7d8a.png)
+
+
+![Barras_prom_cant](https://user-images.githubusercontent.com/67245592/203539850-f0cbdbf3-5def-4bb4-b610-1d09dd9b825e.png)
 
 
 ![swarmplot_estado](https://user-images.githubusercontent.com/67245592/203533561-0348e0e4-5105-4a63-9b8c-cc5f595d5013.png)
 
 
-![Barras_prom_cant](https://user-images.githubusercontent.com/67245592/203534270-cede465e-92de-4f7a-886a-676986450c26.png)
+![proy_terminados](https://user-images.githubusercontent.com/67245592/203540052-61ee22e1-c590-41c0-a82c-baaaf2e9c5dc.png)
 
 
-![proy_terminados](https://user-images.githubusercontent.com/67245592/203534606-4c56a456-1fe3-47c1-b1c5-deb7cb3d3b31.png)
-
-
-![fuentes_finan](https://user-images.githubusercontent.com/67245592/203534878-b97619fb-b343-4ff6-b4da-4be324238bc0.png)
+![fuentes_finan](https://user-images.githubusercontent.com/67245592/203540092-503e534f-7681-4757-b00b-22c469baa9ac.png)
 
 
 ![treemap](https://user-images.githubusercontent.com/67245592/203536137-3a91e597-4c60-4ccc-832b-31cfdffd1c57.png)
